@@ -6,6 +6,7 @@ hypothesis
 pytest
 pytest-bdd
 pytest-benchmark
+pytest-codspeed
 pytest-instafail
 pytest-mock
 pytest-qt
